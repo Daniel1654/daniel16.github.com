@@ -1,0 +1,105 @@
+nav ul li {
+    text-align: center;
+    display: inline;
+    justify-content: center;
+    list-style: none;
+   margin: 0 20px;
+    padding: 0px;
+    color: rgb(7, 137, 250);
+}
+div {
+    text-align: center;
+    color: hwb(315 98% 1%);
+    background-color: #141312;
+}
+li {text-align: justify;
+    color: rgb(213, 14, 220);
+    margin: 0 20px;
+
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;justify-items: auto;
+}
+ul li {
+    font-style: italic;
+    text-shadow: blue;
+    font-size: large;
+    color: blue;
+}
+body {
+    background-image: url(.../IMG1/UUU.jpg);
+}
+main img {
+    width: 340px;
+    height: min-content;
+}
+main  {text-align:left;color:rgb(33, 7, 234);
+
+}
+    section {
+        text-align:left;
+    }
+section button {  color: deeppink;
+
+}
+legend {
+    color: hwb(0 9% 90%);
+}
+section ul li {
+    list-style: none;
+    
+} 
+.co {
+    text-align: right;
+}
+.titre2 {
+    text-align: center;
+    color-interpolation-filters: linearRGB;
+    counter-reset:green;
+    padding-top: 150px;
+    color: rgb(6, 237, 237);
+    
+}
+.tata {
+    text-align: center;
+}
+.search-container { text-align: center;
+    text-decoration: none;
+
+}
+*{
+    background-color:lightslategrey;
+    border-color: rgb(235, 11, 209);
+    box-shadow: #141312;
+    background-origin: padding-box;
+}
+footer {
+    text-align: center;
+color: hsl(0, 79%, 6%);
+font-variant: normal;
+font-size: larger;
+padding-bottom: 400px;
+padding-top: 100px;
+background-image:url(@\ \(6\).jpg)}
+.rec {
+    margin-left: 60px;
+}
+footer img {
+    border-top-left-radius: 20px;
+    border-width: 100px;
+    border-top-right-radius:20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-radius:o,5 px;
+    width: 1000px;
+}
+form {
+    text-align: justify;
+}
+div h1 {
+    color: rgb(128, 11, 237);
+    background-color: antiquewhite;
+
+}
